@@ -1,0 +1,6 @@
+env/
+
+models/lr_emotion_model.pkl
+models/lstm_emotion_model.h5
+models/tokenizer.pkl
+models/vectorizer.pkl
